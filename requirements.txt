@@ -1,3 +1,2 @@
 ipython
 httpx
-jedi==0.17.2 # temporary workaround for an ipython incompatibility, see: https://github.com/ipython/ipython/issues/12740
