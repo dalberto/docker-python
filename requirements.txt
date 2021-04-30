@@ -1,2 +1,2 @@
-ipython
-httpx
+ipython==7.22.0
+httpx==0.18.1
