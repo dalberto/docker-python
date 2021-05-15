@@ -1,2 +1,4 @@
-ipython==7.23.1
 httpx==0.18.1
+ipython-autoimport==0.3
+ipython==7.23.1
+rich==10.2.0
