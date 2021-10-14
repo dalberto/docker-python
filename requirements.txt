@@ -1,2 +1,2 @@
 ipython==7.24.1
-httpx==0.18.2
+httpx==0.20.0
