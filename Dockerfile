@@ -1,4 +1,4 @@
-FROM python:3.10.0-alpine3.13
+FROM python:3.11-slim
 
 ARG APP_DIR=/opt/app
 
